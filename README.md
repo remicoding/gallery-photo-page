@@ -6,7 +6,7 @@ The `index.html` file contains mostly HTML `<div>` and `<img>` tags to use for F
 
 The `css/styles.css` file is use in accord with the property of Flexbox to build a responsive photo gallery webpage.
 
-The page can be viewed here: [Photo Gallery](https://remicoding.github.io/photo-gallery-page/)
+The page can be viewed here: [Photo Gallery](https://remicoding.github.io/gallery-photo-page/)
 
 For your convenience, here is a screenshot of the page:
 
